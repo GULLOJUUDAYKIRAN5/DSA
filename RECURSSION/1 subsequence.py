@@ -4,6 +4,7 @@ def subseq(arr,i,res):
         return
     subseq(arr,i+1,res+[arr[i]])
     subseq(arr,i+1,res)
+# hi
     
     
 
